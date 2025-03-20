@@ -26,7 +26,7 @@ def send_bulk_messages(phone_numbers, message, delay=10):
             print(f"Failed to send message to {phone}: {e}")
 
 # List of phone numbers (use country code, e.g., "+1234567890") or excel or csv file
-phone_numbers = ["+918147370347","+916354959448"]
+phone_numbers = ["Phone numbers","Phone numbers"]
 
 
 # The message you want to send
